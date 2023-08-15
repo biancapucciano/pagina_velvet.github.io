@@ -1,0 +1,1154 @@
+11-30-2022 @ 01:50:43 - [process_payment]: customer being redirected to Mercado Pago.
+11-30-2022 @ 01:50:43 - [Created preference: ]: Preference: {
+    "binary_mode": false,
+    "external_reference": "WC-VELVETSKN753",
+    "notification_url": "https:\/\/dmt4a.ga\/grupodos\/wc-api\/WC_WooMercadoPago_Basic_Gateway\/?source_news=ipn",
+    "statement_descriptor": "Velvet Skincare",
+    "items": [
+        {
+            "id": 458,
+            "title": "Mascarilla Hidratante Hipoalergenica x 1",
+            "description": "Mascarilla-hidratante-hipoalergenica.-Sin-residuos.-Libre-de-parabenos",
+            "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/aloe-vera.png",
+            "category_id": "others",
+            "quantity": 1,
+            "unit_price": 1000,
+            "currency_id": "ARS"
+        },
+        {
+            "id": 595,
+            "title": "Curso rutinas de skincare. x 1",
+            "description": "Velvet-ofrece-la-presentacion-de-un-curso-para-todas-las-personas-interesadas-en-cuidar-su-piel.-Se-ensenara-diversas-rutinas-de-skincare-y-tips-para-mejorar-tu-piel",
+            "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/10\/mujer-con-jade-roller.jpg",
+            "category_id": "others",
+            "quantity": 1,
+            "unit_price": 2150,
+            "currency_id": "ARS"
+        },
+        {
+            "id": 568,
+            "title": "Aceite Corporal x 16",
+            "description": "Aceite-para-masajes-corporales.-Descongestivo-y-descontracturante.-Con-calendula-y-menta",
+            "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/aceite-masajes-corporales.jpg",
+            "category_id": "others",
+            "quantity": 1,
+            "unit_price": 12000,
+            "currency_id": "ARS"
+        },
+        {
+            "id": 553,
+            "title": "Agua Termal x 1",
+            "description": "Agua-termal-calmante-y-desensibilizante.-Es-el-cuidado-esencial-para-todo-tipo-de-pieles-en-especial-aquellas-sensibles.-Libre-de-parabenos",
+            "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/agua-termal-1.png",
+            "category_id": "others",
+            "quantity": 1,
+            "unit_price": 3000,
+            "currency_id": "ARS"
+        },
+        {
+            "id": 438,
+            "title": "Crema hidrante para manos x 1",
+            "description": "Crema-hidratante-para-manos-con-aceites-esenciales-y-vitamina-E.-Hipoalergenica.-Sin-parabenos",
+            "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/hand-cream.png",
+            "category_id": "others",
+            "quantity": 1,
+            "unit_price": 1500,
+            "currency_id": "ARS"
+        }
+    ],
+    "payer": {
+        "name": "oriana",
+        "surname": "perchet",
+        "email": "orianaperchet@gmail.com",
+        "phone": {
+            "number": "151111111111"
+        },
+        "address": {
+            "zip_code": "2222",
+            "street_name": "aaaaaa \/ argentina C AR"
+        }
+    },
+    "back_urls": {
+        "success": "https:\/\/dmt4a.ga\/grupodos\/checkout\/order-received\/753\/?key=wc_order_Oxlfnd9p0PONn",
+        "failure": "https:\/\/dmt4a.ga\/grupodos\/cart\/?cancel_order=true&order=wc_order_Oxlfnd9p0PONn&order_id=753&redirect&_wpnonce=b8dfaa54f7",
+        "pending": "https:\/\/dmt4a.ga\/grupodos\/checkout\/order-received\/753\/?key=wc_order_Oxlfnd9p0PONn"
+    },
+    "shipments": {
+        "receiver_address": {
+            "zip_code": "",
+            "street_name": "    ",
+            "apartment": "",
+            "city_name": "",
+            "state_name": ""
+        }
+    },
+    "payment_methods": {
+        "installments": 6,
+        "excluded_payment_methods": []
+    },
+    "auto_return": "approved",
+    "metadata": {
+        "platform": "bo2hnr2ic4p001kbgpt0",
+        "platform_version": "7.0.0",
+        "module_version": "6.3.1",
+        "site_id": "mla",
+        "sponsor_id": 208682286,
+        "collector": "346688746",
+        "test_mode": true,
+        "details": "",
+        "basic_settings": {
+            "enabled": "yes",
+            "currency_conversion": "yes",
+            "installments": "6",
+            "credits_banner": "yes",
+            "method": "redirect",
+            "auto_return": "yes",
+            "binary_mode": "no",
+            "ex_payments_visa": "yes",
+            "ex_payments_diners": "yes",
+            "ex_payments_argencard": "yes",
+            "ex_payments_cabal": "yes",
+            "ex_payments_cencosud": "yes",
+            "ex_payments_cmr": "yes",
+            "ex_payments_master": "yes",
+            "ex_payments_amex": "yes",
+            "ex_payments_naranja": "yes",
+            "ex_payments_tarshop": "yes",
+            "ex_payments_debcabal": "yes",
+            "ex_payments_maestro": "yes",
+            "ex_payments_debmaster": "yes",
+            "ex_payments_debvisa": "yes",
+            "ex_payments_pagofacil": "yes",
+            "ex_payments_rapipago": "yes",
+            "gateway_discount_checkbox": "no",
+            "commission_checkbox": "no",
+            "checkbox_checkout_test_mode": "yes",
+            "checkout_credential_prod": "deprecated"
+        },
+        "custom_settings": {
+            "enabled": "yes",
+            "currency_conversion": "yes",
+            "wallet_button": "yes",
+            "coupon_mode": "no",
+            "binary_mode": "no",
+            "gateway_discount_checkbox": "no",
+            "commission_checkbox": "no",
+            "checkbox_checkout_test_mode": "yes",
+            "checkout_credential_prod": "deprecated"
+        },
+        "ticket_settings": [],
+        "pix_settings": [],
+        "seller_website": "https:\/\/dmt4a.ga\/grupodos",
+        "billing_address": {
+            "zip_code": "2222",
+            "street_name": "aaaaaa",
+            "city_name": "argentina",
+            "state_name": "C",
+            "country_name": "AR"
+        },
+        "user": {
+            "registered_user": "yes",
+            "user_email": "orianaperchet@gmail.com",
+            "user_registration_date": "2022-10-09T19:25:06.000+00:00"
+        },
+        "checkout": "smart",
+        "checkout_type": "redirect"
+    }
+}
+11-30-2022 @ 01:50:43 - [create_preference]: Created Preference: {
+    "status": 201,
+    "response": {
+        "additional_info": "",
+        "auto_return": "approved",
+        "back_urls": {
+            "failure": "https:\/\/dmt4a.ga\/grupodos\/cart\/?cancel_order=true&order=wc_order_Oxlfnd9p0PONn&order_id=753&redirect&_wpnonce=b8dfaa54f7",
+            "pending": "https:\/\/dmt4a.ga\/grupodos\/checkout\/order-received\/753\/?key=wc_order_Oxlfnd9p0PONn",
+            "success": "https:\/\/dmt4a.ga\/grupodos\/checkout\/order-received\/753\/?key=wc_order_Oxlfnd9p0PONn"
+        },
+        "binary_mode": false,
+        "client_id": "7681173066512783",
+        "collector_id": 346688746,
+        "coupon_code": null,
+        "coupon_labels": null,
+        "date_created": "2022-11-29T21:50:43.726-04:00",
+        "date_of_expiration": null,
+        "expiration_date_from": null,
+        "expiration_date_to": null,
+        "expires": false,
+        "external_reference": "WC-VELVETSKN753",
+        "id": "346688746-4c1f14d1-783d-44d5-8ea4-fb2e90c44e74",
+        "init_point": "https:\/\/www.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=346688746-4c1f14d1-783d-44d5-8ea4-fb2e90c44e74",
+        "internal_metadata": null,
+        "items": [
+            {
+                "id": "458",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Mascarilla-hidratante-hipoalergenica.-Sin-residuos.-Libre-de-parabenos",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/aloe-vera.png",
+                "title": "Mascarilla Hidratante Hipoalergenica x 1",
+                "quantity": 1,
+                "unit_price": 1000
+            },
+            {
+                "id": "595",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Velvet-ofrece-la-presentacion-de-un-curso-para-todas-las-personas-interesadas-en-cuidar-su-piel.-Se-ensenara-diversas-rutinas-de-skincare-y-tips-para-mejorar-tu-piel",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/10\/mujer-con-jade-roller.jpg",
+                "title": "Curso rutinas de skincare. x 1",
+                "quantity": 1,
+                "unit_price": 2150
+            },
+            {
+                "id": "568",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Aceite-para-masajes-corporales.-Descongestivo-y-descontracturante.-Con-calendula-y-menta",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/aceite-masajes-corporales.jpg",
+                "title": "Aceite Corporal x 16",
+                "quantity": 1,
+                "unit_price": 12000
+            },
+            {
+                "id": "553",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Agua-termal-calmante-y-desensibilizante.-Es-el-cuidado-esencial-para-todo-tipo-de-pieles-en-especial-aquellas-sensibles.-Libre-de-parabenos",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/agua-termal-1.png",
+                "title": "Agua Termal x 1",
+                "quantity": 1,
+                "unit_price": 3000
+            },
+            {
+                "id": "438",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Crema-hidratante-para-manos-con-aceites-esenciales-y-vitamina-E.-Hipoalergenica.-Sin-parabenos",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/hand-cream.png",
+                "title": "Crema hidrante para manos x 1",
+                "quantity": 1,
+                "unit_price": 1500
+            }
+        ],
+        "marketplace": "NONE",
+        "marketplace_fee": 0,
+        "metadata": {
+            "basic_settings": {
+                "auto_return": "yes",
+                "binary_mode": "no",
+                "checkbox_checkout_test_mode": "yes",
+                "checkout_credential_prod": "deprecated",
+                "commission_checkbox": "no",
+                "credits_banner": "yes",
+                "currency_conversion": "yes",
+                "enabled": "yes",
+                "ex_payments_amex": "yes",
+                "ex_payments_argencard": "yes",
+                "ex_payments_cabal": "yes",
+                "ex_payments_cencosud": "yes",
+                "ex_payments_cmr": "yes",
+                "ex_payments_debcabal": "yes",
+                "ex_payments_debmaster": "yes",
+                "ex_payments_debvisa": "yes",
+                "ex_payments_diners": "yes",
+                "ex_payments_maestro": "yes",
+                "ex_payments_master": "yes",
+                "ex_payments_naranja": "yes",
+                "ex_payments_pagofacil": "yes",
+                "ex_payments_rapipago": "yes",
+                "ex_payments_tarshop": "yes",
+                "ex_payments_visa": "yes",
+                "gateway_discount_checkbox": "no",
+                "installments": "6",
+                "method": "redirect"
+            },
+            "billing_address": {
+                "city_name": "argentina",
+                "country_name": "AR",
+                "state_name": "C",
+                "street_name": "aaaaaa",
+                "zip_code": "2222"
+            },
+            "checkout": "smart",
+            "checkout_type": "redirect",
+            "collector": "346688746",
+            "custom_settings": {
+                "binary_mode": "no",
+                "checkbox_checkout_test_mode": "yes",
+                "checkout_credential_prod": "deprecated",
+                "commission_checkbox": "no",
+                "coupon_mode": "no",
+                "currency_conversion": "yes",
+                "enabled": "yes",
+                "gateway_discount_checkbox": "no",
+                "wallet_button": "yes"
+            },
+            "details": "",
+            "module_version": "6.3.1",
+            "pix_settings": [],
+            "platform": "bo2hnr2ic4p001kbgpt0",
+            "platform_version": "7.0.0",
+            "seller_website": "https:\/\/dmt4a.ga\/grupodos",
+            "site_id": "mla",
+            "sponsor_id": 208682286,
+            "test_mode": true,
+            "ticket_settings": [],
+            "user": {
+                "registered_user": "yes",
+                "user_email": "orianaperchet@gmail.com",
+                "user_registration_date": "2022-10-09T19:25:06.000+00:00"
+            }
+        },
+        "notification_url": "https:\/\/dmt4a.ga\/grupodos\/wc-api\/WC_WooMercadoPago_Basic_Gateway\/?source_news=ipn",
+        "operation_type": "regular_payment",
+        "payer": {
+            "phone": {
+                "area_code": "",
+                "number": "151111111111"
+            },
+            "address": {
+                "zip_code": "2222",
+                "street_name": "aaaaaa  argentina C AR",
+                "street_number": null
+            },
+            "email": "orianaperchet@gmail.com",
+            "identification": {
+                "number": "",
+                "type": ""
+            },
+            "name": "oriana",
+            "surname": "perchet",
+            "date_created": null,
+            "last_purchase": null
+        },
+        "payment_methods": {
+            "default_card_id": null,
+            "default_payment_method_id": null,
+            "excluded_payment_methods": [
+                {
+                    "id": ""
+                }
+            ],
+            "excluded_payment_types": [
+                {
+                    "id": ""
+                }
+            ],
+            "installments": 6,
+            "default_installments": null
+        },
+        "processing_modes": null,
+        "product_id": null,
+        "redirect_urls": {
+            "failure": "",
+            "pending": "",
+            "success": ""
+        },
+        "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=346688746-4c1f14d1-783d-44d5-8ea4-fb2e90c44e74",
+        "site_id": "MLA",
+        "shipments": {
+            "default_shipping_method": null,
+            "receiver_address": {
+                "zip_code": "",
+                "street_name": "    ",
+                "street_number": null,
+                "floor": "",
+                "apartment": "",
+                "city_name": "",
+                "state_name": "",
+                "country_name": null
+            }
+        },
+        "statement_descriptor": "Velvet Skincare",
+        "total_amount": null,
+        "last_updated": null
+    }
+}
+11-30-2022 @ 01:50:43 - [create_preference]: payment link generated with success from mercado pago, with structure as follow: {
+    "status": 201,
+    "response": {
+        "additional_info": "",
+        "auto_return": "approved",
+        "back_urls": {
+            "failure": "https:\/\/dmt4a.ga\/grupodos\/cart\/?cancel_order=true&order=wc_order_Oxlfnd9p0PONn&order_id=753&redirect&_wpnonce=b8dfaa54f7",
+            "pending": "https:\/\/dmt4a.ga\/grupodos\/checkout\/order-received\/753\/?key=wc_order_Oxlfnd9p0PONn",
+            "success": "https:\/\/dmt4a.ga\/grupodos\/checkout\/order-received\/753\/?key=wc_order_Oxlfnd9p0PONn"
+        },
+        "binary_mode": false,
+        "client_id": "7681173066512783",
+        "collector_id": 346688746,
+        "coupon_code": null,
+        "coupon_labels": null,
+        "date_created": "2022-11-29T21:50:43.726-04:00",
+        "date_of_expiration": null,
+        "expiration_date_from": null,
+        "expiration_date_to": null,
+        "expires": false,
+        "external_reference": "WC-VELVETSKN753",
+        "id": "346688746-4c1f14d1-783d-44d5-8ea4-fb2e90c44e74",
+        "init_point": "https:\/\/www.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=346688746-4c1f14d1-783d-44d5-8ea4-fb2e90c44e74",
+        "internal_metadata": null,
+        "items": [
+            {
+                "id": "458",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Mascarilla-hidratante-hipoalergenica.-Sin-residuos.-Libre-de-parabenos",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/aloe-vera.png",
+                "title": "Mascarilla Hidratante Hipoalergenica x 1",
+                "quantity": 1,
+                "unit_price": 1000
+            },
+            {
+                "id": "595",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Velvet-ofrece-la-presentacion-de-un-curso-para-todas-las-personas-interesadas-en-cuidar-su-piel.-Se-ensenara-diversas-rutinas-de-skincare-y-tips-para-mejorar-tu-piel",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/10\/mujer-con-jade-roller.jpg",
+                "title": "Curso rutinas de skincare. x 1",
+                "quantity": 1,
+                "unit_price": 2150
+            },
+            {
+                "id": "568",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Aceite-para-masajes-corporales.-Descongestivo-y-descontracturante.-Con-calendula-y-menta",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/aceite-masajes-corporales.jpg",
+                "title": "Aceite Corporal x 16",
+                "quantity": 1,
+                "unit_price": 12000
+            },
+            {
+                "id": "553",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Agua-termal-calmante-y-desensibilizante.-Es-el-cuidado-esencial-para-todo-tipo-de-pieles-en-especial-aquellas-sensibles.-Libre-de-parabenos",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/agua-termal-1.png",
+                "title": "Agua Termal x 1",
+                "quantity": 1,
+                "unit_price": 3000
+            },
+            {
+                "id": "438",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Crema-hidratante-para-manos-con-aceites-esenciales-y-vitamina-E.-Hipoalergenica.-Sin-parabenos",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/hand-cream.png",
+                "title": "Crema hidrante para manos x 1",
+                "quantity": 1,
+                "unit_price": 1500
+            }
+        ],
+        "marketplace": "NONE",
+        "marketplace_fee": 0,
+        "metadata": {
+            "basic_settings": {
+                "auto_return": "yes",
+                "binary_mode": "no",
+                "checkbox_checkout_test_mode": "yes",
+                "checkout_credential_prod": "deprecated",
+                "commission_checkbox": "no",
+                "credits_banner": "yes",
+                "currency_conversion": "yes",
+                "enabled": "yes",
+                "ex_payments_amex": "yes",
+                "ex_payments_argencard": "yes",
+                "ex_payments_cabal": "yes",
+                "ex_payments_cencosud": "yes",
+                "ex_payments_cmr": "yes",
+                "ex_payments_debcabal": "yes",
+                "ex_payments_debmaster": "yes",
+                "ex_payments_debvisa": "yes",
+                "ex_payments_diners": "yes",
+                "ex_payments_maestro": "yes",
+                "ex_payments_master": "yes",
+                "ex_payments_naranja": "yes",
+                "ex_payments_pagofacil": "yes",
+                "ex_payments_rapipago": "yes",
+                "ex_payments_tarshop": "yes",
+                "ex_payments_visa": "yes",
+                "gateway_discount_checkbox": "no",
+                "installments": "6",
+                "method": "redirect"
+            },
+            "billing_address": {
+                "city_name": "argentina",
+                "country_name": "AR",
+                "state_name": "C",
+                "street_name": "aaaaaa",
+                "zip_code": "2222"
+            },
+            "checkout": "smart",
+            "checkout_type": "redirect",
+            "collector": "346688746",
+            "custom_settings": {
+                "binary_mode": "no",
+                "checkbox_checkout_test_mode": "yes",
+                "checkout_credential_prod": "deprecated",
+                "commission_checkbox": "no",
+                "coupon_mode": "no",
+                "currency_conversion": "yes",
+                "enabled": "yes",
+                "gateway_discount_checkbox": "no",
+                "wallet_button": "yes"
+            },
+            "details": "",
+            "module_version": "6.3.1",
+            "pix_settings": [],
+            "platform": "bo2hnr2ic4p001kbgpt0",
+            "platform_version": "7.0.0",
+            "seller_website": "https:\/\/dmt4a.ga\/grupodos",
+            "site_id": "mla",
+            "sponsor_id": 208682286,
+            "test_mode": true,
+            "ticket_settings": [],
+            "user": {
+                "registered_user": "yes",
+                "user_email": "orianaperchet@gmail.com",
+                "user_registration_date": "2022-10-09T19:25:06.000+00:00"
+            }
+        },
+        "notification_url": "https:\/\/dmt4a.ga\/grupodos\/wc-api\/WC_WooMercadoPago_Basic_Gateway\/?source_news=ipn",
+        "operation_type": "regular_payment",
+        "payer": {
+            "phone": {
+                "area_code": "",
+                "number": "151111111111"
+            },
+            "address": {
+                "zip_code": "2222",
+                "street_name": "aaaaaa  argentina C AR",
+                "street_number": null
+            },
+            "email": "orianaperchet@gmail.com",
+            "identification": {
+                "number": "",
+                "type": ""
+            },
+            "name": "oriana",
+            "surname": "perchet",
+            "date_created": null,
+            "last_purchase": null
+        },
+        "payment_methods": {
+            "default_card_id": null,
+            "default_payment_method_id": null,
+            "excluded_payment_methods": [
+                {
+                    "id": ""
+                }
+            ],
+            "excluded_payment_types": [
+                {
+                    "id": ""
+                }
+            ],
+            "installments": 6,
+            "default_installments": null
+        },
+        "processing_modes": null,
+        "product_id": null,
+        "redirect_urls": {
+            "failure": "",
+            "pending": "",
+            "success": ""
+        },
+        "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=346688746-4c1f14d1-783d-44d5-8ea4-fb2e90c44e74",
+        "site_id": "MLA",
+        "shipments": {
+            "default_shipping_method": null,
+            "receiver_address": {
+                "zip_code": "",
+                "street_name": "    ",
+                "street_number": null,
+                "floor": "",
+                "apartment": "",
+                "city_name": "",
+                "state_name": "",
+                "country_name": null
+            }
+        },
+        "statement_descriptor": "Velvet Skincare",
+        "total_amount": null,
+        "last_updated": null
+    }
+}
+11-30-2022 @ 01:52:21 - [process_payment]: customer being redirected to Mercado Pago.
+11-30-2022 @ 01:52:21 - [Created preference: ]: Preference: {
+    "binary_mode": false,
+    "external_reference": "WC-VELVETSKN754",
+    "notification_url": "https:\/\/dmt4a.ga\/grupodos\/wc-api\/WC_WooMercadoPago_Basic_Gateway\/?source_news=ipn",
+    "statement_descriptor": "Velvet Skincare",
+    "items": [
+        {
+            "id": 458,
+            "title": "Mascarilla Hidratante Hipoalergenica x 1",
+            "description": "Mascarilla-hidratante-hipoalergenica.-Sin-residuos.-Libre-de-parabenos",
+            "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/aloe-vera.png",
+            "category_id": "others",
+            "quantity": 1,
+            "unit_price": 1000,
+            "currency_id": "ARS"
+        },
+        {
+            "id": 595,
+            "title": "Curso rutinas de skincare. x 1",
+            "description": "Velvet-ofrece-la-presentacion-de-un-curso-para-todas-las-personas-interesadas-en-cuidar-su-piel.-Se-ensenara-diversas-rutinas-de-skincare-y-tips-para-mejorar-tu-piel",
+            "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/10\/mujer-con-jade-roller.jpg",
+            "category_id": "others",
+            "quantity": 1,
+            "unit_price": 2150,
+            "currency_id": "ARS"
+        },
+        {
+            "id": 568,
+            "title": "Aceite Corporal x 16",
+            "description": "Aceite-para-masajes-corporales.-Descongestivo-y-descontracturante.-Con-calendula-y-menta",
+            "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/aceite-masajes-corporales.jpg",
+            "category_id": "others",
+            "quantity": 1,
+            "unit_price": 12000,
+            "currency_id": "ARS"
+        },
+        {
+            "id": 553,
+            "title": "Agua Termal x 1",
+            "description": "Agua-termal-calmante-y-desensibilizante.-Es-el-cuidado-esencial-para-todo-tipo-de-pieles-en-especial-aquellas-sensibles.-Libre-de-parabenos",
+            "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/agua-termal-1.png",
+            "category_id": "others",
+            "quantity": 1,
+            "unit_price": 3000,
+            "currency_id": "ARS"
+        },
+        {
+            "id": 438,
+            "title": "Crema hidrante para manos x 1",
+            "description": "Crema-hidratante-para-manos-con-aceites-esenciales-y-vitamina-E.-Hipoalergenica.-Sin-parabenos",
+            "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/hand-cream.png",
+            "category_id": "others",
+            "quantity": 1,
+            "unit_price": 1500,
+            "currency_id": "ARS"
+        }
+    ],
+    "payer": {
+        "name": "oriana",
+        "surname": "perchet",
+        "email": "orianaperchet@gmail.com",
+        "phone": {
+            "number": "151111111111"
+        },
+        "address": {
+            "zip_code": "2222",
+            "street_name": "aaaaaa \/ argentina C AR"
+        }
+    },
+    "back_urls": {
+        "success": "https:\/\/dmt4a.ga\/grupodos\/checkout\/order-received\/754\/?key=wc_order_mdq1ZNiulXjfS",
+        "failure": "https:\/\/dmt4a.ga\/grupodos\/cart\/?cancel_order=true&order=wc_order_mdq1ZNiulXjfS&order_id=754&redirect&_wpnonce=b8dfaa54f7",
+        "pending": "https:\/\/dmt4a.ga\/grupodos\/checkout\/order-received\/754\/?key=wc_order_mdq1ZNiulXjfS"
+    },
+    "shipments": {
+        "receiver_address": {
+            "zip_code": "",
+            "street_name": "    ",
+            "apartment": "",
+            "city_name": "",
+            "state_name": ""
+        }
+    },
+    "payment_methods": {
+        "installments": 6,
+        "excluded_payment_methods": []
+    },
+    "auto_return": "approved",
+    "metadata": {
+        "platform": "bo2hnr2ic4p001kbgpt0",
+        "platform_version": "7.0.0",
+        "module_version": "6.3.1",
+        "site_id": "mla",
+        "sponsor_id": 208682286,
+        "collector": "346688746",
+        "test_mode": true,
+        "details": "",
+        "basic_settings": {
+            "enabled": "yes",
+            "currency_conversion": "yes",
+            "installments": "6",
+            "credits_banner": "yes",
+            "method": "redirect",
+            "auto_return": "yes",
+            "binary_mode": "no",
+            "ex_payments_visa": "yes",
+            "ex_payments_diners": "yes",
+            "ex_payments_argencard": "yes",
+            "ex_payments_cabal": "yes",
+            "ex_payments_cencosud": "yes",
+            "ex_payments_cmr": "yes",
+            "ex_payments_master": "yes",
+            "ex_payments_amex": "yes",
+            "ex_payments_naranja": "yes",
+            "ex_payments_tarshop": "yes",
+            "ex_payments_debcabal": "yes",
+            "ex_payments_maestro": "yes",
+            "ex_payments_debmaster": "yes",
+            "ex_payments_debvisa": "yes",
+            "ex_payments_pagofacil": "yes",
+            "ex_payments_rapipago": "yes",
+            "gateway_discount_checkbox": "no",
+            "commission_checkbox": "no",
+            "checkbox_checkout_test_mode": "yes",
+            "checkout_credential_prod": "deprecated"
+        },
+        "custom_settings": {
+            "enabled": "yes",
+            "currency_conversion": "yes",
+            "wallet_button": "yes",
+            "coupon_mode": "no",
+            "binary_mode": "no",
+            "gateway_discount_checkbox": "no",
+            "commission_checkbox": "no",
+            "checkbox_checkout_test_mode": "yes",
+            "checkout_credential_prod": "deprecated"
+        },
+        "ticket_settings": [],
+        "pix_settings": [],
+        "seller_website": "https:\/\/dmt4a.ga\/grupodos",
+        "billing_address": {
+            "zip_code": "2222",
+            "street_name": "aaaaaa",
+            "city_name": "argentina",
+            "state_name": "C",
+            "country_name": "AR"
+        },
+        "user": {
+            "registered_user": "yes",
+            "user_email": "orianaperchet@gmail.com",
+            "user_registration_date": "2022-10-09T19:25:06.000+00:00"
+        },
+        "checkout": "smart",
+        "checkout_type": "redirect"
+    }
+}
+11-30-2022 @ 01:52:22 - [create_preference]: Created Preference: {
+    "status": 201,
+    "response": {
+        "additional_info": "",
+        "auto_return": "approved",
+        "back_urls": {
+            "failure": "https:\/\/dmt4a.ga\/grupodos\/cart\/?cancel_order=true&order=wc_order_mdq1ZNiulXjfS&order_id=754&redirect&_wpnonce=b8dfaa54f7",
+            "pending": "https:\/\/dmt4a.ga\/grupodos\/checkout\/order-received\/754\/?key=wc_order_mdq1ZNiulXjfS",
+            "success": "https:\/\/dmt4a.ga\/grupodos\/checkout\/order-received\/754\/?key=wc_order_mdq1ZNiulXjfS"
+        },
+        "binary_mode": false,
+        "client_id": "7681173066512783",
+        "collector_id": 346688746,
+        "coupon_code": null,
+        "coupon_labels": null,
+        "date_created": "2022-11-29T21:52:22.526-04:00",
+        "date_of_expiration": null,
+        "expiration_date_from": null,
+        "expiration_date_to": null,
+        "expires": false,
+        "external_reference": "WC-VELVETSKN754",
+        "id": "346688746-3e499aea-5ecb-4640-abdf-503598ba6165",
+        "init_point": "https:\/\/www.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=346688746-3e499aea-5ecb-4640-abdf-503598ba6165",
+        "internal_metadata": null,
+        "items": [
+            {
+                "id": "458",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Mascarilla-hidratante-hipoalergenica.-Sin-residuos.-Libre-de-parabenos",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/aloe-vera.png",
+                "title": "Mascarilla Hidratante Hipoalergenica x 1",
+                "quantity": 1,
+                "unit_price": 1000
+            },
+            {
+                "id": "595",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Velvet-ofrece-la-presentacion-de-un-curso-para-todas-las-personas-interesadas-en-cuidar-su-piel.-Se-ensenara-diversas-rutinas-de-skincare-y-tips-para-mejorar-tu-piel",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/10\/mujer-con-jade-roller.jpg",
+                "title": "Curso rutinas de skincare. x 1",
+                "quantity": 1,
+                "unit_price": 2150
+            },
+            {
+                "id": "568",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Aceite-para-masajes-corporales.-Descongestivo-y-descontracturante.-Con-calendula-y-menta",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/aceite-masajes-corporales.jpg",
+                "title": "Aceite Corporal x 16",
+                "quantity": 1,
+                "unit_price": 12000
+            },
+            {
+                "id": "553",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Agua-termal-calmante-y-desensibilizante.-Es-el-cuidado-esencial-para-todo-tipo-de-pieles-en-especial-aquellas-sensibles.-Libre-de-parabenos",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/agua-termal-1.png",
+                "title": "Agua Termal x 1",
+                "quantity": 1,
+                "unit_price": 3000
+            },
+            {
+                "id": "438",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Crema-hidratante-para-manos-con-aceites-esenciales-y-vitamina-E.-Hipoalergenica.-Sin-parabenos",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/hand-cream.png",
+                "title": "Crema hidrante para manos x 1",
+                "quantity": 1,
+                "unit_price": 1500
+            }
+        ],
+        "marketplace": "NONE",
+        "marketplace_fee": 0,
+        "metadata": {
+            "basic_settings": {
+                "auto_return": "yes",
+                "binary_mode": "no",
+                "checkbox_checkout_test_mode": "yes",
+                "checkout_credential_prod": "deprecated",
+                "commission_checkbox": "no",
+                "credits_banner": "yes",
+                "currency_conversion": "yes",
+                "enabled": "yes",
+                "ex_payments_amex": "yes",
+                "ex_payments_argencard": "yes",
+                "ex_payments_cabal": "yes",
+                "ex_payments_cencosud": "yes",
+                "ex_payments_cmr": "yes",
+                "ex_payments_debcabal": "yes",
+                "ex_payments_debmaster": "yes",
+                "ex_payments_debvisa": "yes",
+                "ex_payments_diners": "yes",
+                "ex_payments_maestro": "yes",
+                "ex_payments_master": "yes",
+                "ex_payments_naranja": "yes",
+                "ex_payments_pagofacil": "yes",
+                "ex_payments_rapipago": "yes",
+                "ex_payments_tarshop": "yes",
+                "ex_payments_visa": "yes",
+                "gateway_discount_checkbox": "no",
+                "installments": "6",
+                "method": "redirect"
+            },
+            "billing_address": {
+                "city_name": "argentina",
+                "country_name": "AR",
+                "state_name": "C",
+                "street_name": "aaaaaa",
+                "zip_code": "2222"
+            },
+            "checkout": "smart",
+            "checkout_type": "redirect",
+            "collector": "346688746",
+            "custom_settings": {
+                "binary_mode": "no",
+                "checkbox_checkout_test_mode": "yes",
+                "checkout_credential_prod": "deprecated",
+                "commission_checkbox": "no",
+                "coupon_mode": "no",
+                "currency_conversion": "yes",
+                "enabled": "yes",
+                "gateway_discount_checkbox": "no",
+                "wallet_button": "yes"
+            },
+            "details": "",
+            "module_version": "6.3.1",
+            "pix_settings": [],
+            "platform": "bo2hnr2ic4p001kbgpt0",
+            "platform_version": "7.0.0",
+            "seller_website": "https:\/\/dmt4a.ga\/grupodos",
+            "site_id": "mla",
+            "sponsor_id": 208682286,
+            "test_mode": true,
+            "ticket_settings": [],
+            "user": {
+                "registered_user": "yes",
+                "user_email": "orianaperchet@gmail.com",
+                "user_registration_date": "2022-10-09T19:25:06.000+00:00"
+            }
+        },
+        "notification_url": "https:\/\/dmt4a.ga\/grupodos\/wc-api\/WC_WooMercadoPago_Basic_Gateway\/?source_news=ipn",
+        "operation_type": "regular_payment",
+        "payer": {
+            "phone": {
+                "area_code": "",
+                "number": "151111111111"
+            },
+            "address": {
+                "zip_code": "2222",
+                "street_name": "aaaaaa  argentina C AR",
+                "street_number": null
+            },
+            "email": "orianaperchet@gmail.com",
+            "identification": {
+                "number": "",
+                "type": ""
+            },
+            "name": "oriana",
+            "surname": "perchet",
+            "date_created": null,
+            "last_purchase": null
+        },
+        "payment_methods": {
+            "default_card_id": null,
+            "default_payment_method_id": null,
+            "excluded_payment_methods": [
+                {
+                    "id": ""
+                }
+            ],
+            "excluded_payment_types": [
+                {
+                    "id": ""
+                }
+            ],
+            "installments": 6,
+            "default_installments": null
+        },
+        "processing_modes": null,
+        "product_id": null,
+        "redirect_urls": {
+            "failure": "",
+            "pending": "",
+            "success": ""
+        },
+        "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=346688746-3e499aea-5ecb-4640-abdf-503598ba6165",
+        "site_id": "MLA",
+        "shipments": {
+            "default_shipping_method": null,
+            "receiver_address": {
+                "zip_code": "",
+                "street_name": "    ",
+                "street_number": null,
+                "floor": "",
+                "apartment": "",
+                "city_name": "",
+                "state_name": "",
+                "country_name": null
+            }
+        },
+        "statement_descriptor": "Velvet Skincare",
+        "total_amount": null,
+        "last_updated": null
+    }
+}
+11-30-2022 @ 01:52:22 - [create_preference]: payment link generated with success from mercado pago, with structure as follow: {
+    "status": 201,
+    "response": {
+        "additional_info": "",
+        "auto_return": "approved",
+        "back_urls": {
+            "failure": "https:\/\/dmt4a.ga\/grupodos\/cart\/?cancel_order=true&order=wc_order_mdq1ZNiulXjfS&order_id=754&redirect&_wpnonce=b8dfaa54f7",
+            "pending": "https:\/\/dmt4a.ga\/grupodos\/checkout\/order-received\/754\/?key=wc_order_mdq1ZNiulXjfS",
+            "success": "https:\/\/dmt4a.ga\/grupodos\/checkout\/order-received\/754\/?key=wc_order_mdq1ZNiulXjfS"
+        },
+        "binary_mode": false,
+        "client_id": "7681173066512783",
+        "collector_id": 346688746,
+        "coupon_code": null,
+        "coupon_labels": null,
+        "date_created": "2022-11-29T21:52:22.526-04:00",
+        "date_of_expiration": null,
+        "expiration_date_from": null,
+        "expiration_date_to": null,
+        "expires": false,
+        "external_reference": "WC-VELVETSKN754",
+        "id": "346688746-3e499aea-5ecb-4640-abdf-503598ba6165",
+        "init_point": "https:\/\/www.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=346688746-3e499aea-5ecb-4640-abdf-503598ba6165",
+        "internal_metadata": null,
+        "items": [
+            {
+                "id": "458",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Mascarilla-hidratante-hipoalergenica.-Sin-residuos.-Libre-de-parabenos",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/aloe-vera.png",
+                "title": "Mascarilla Hidratante Hipoalergenica x 1",
+                "quantity": 1,
+                "unit_price": 1000
+            },
+            {
+                "id": "595",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Velvet-ofrece-la-presentacion-de-un-curso-para-todas-las-personas-interesadas-en-cuidar-su-piel.-Se-ensenara-diversas-rutinas-de-skincare-y-tips-para-mejorar-tu-piel",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/10\/mujer-con-jade-roller.jpg",
+                "title": "Curso rutinas de skincare. x 1",
+                "quantity": 1,
+                "unit_price": 2150
+            },
+            {
+                "id": "568",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Aceite-para-masajes-corporales.-Descongestivo-y-descontracturante.-Con-calendula-y-menta",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/aceite-masajes-corporales.jpg",
+                "title": "Aceite Corporal x 16",
+                "quantity": 1,
+                "unit_price": 12000
+            },
+            {
+                "id": "553",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Agua-termal-calmante-y-desensibilizante.-Es-el-cuidado-esencial-para-todo-tipo-de-pieles-en-especial-aquellas-sensibles.-Libre-de-parabenos",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/agua-termal-1.png",
+                "title": "Agua Termal x 1",
+                "quantity": 1,
+                "unit_price": 3000
+            },
+            {
+                "id": "438",
+                "category_id": "others",
+                "currency_id": "ARS",
+                "description": "Crema-hidratante-para-manos-con-aceites-esenciales-y-vitamina-E.-Hipoalergenica.-Sin-parabenos",
+                "picture_url": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads\/2022\/11\/hand-cream.png",
+                "title": "Crema hidrante para manos x 1",
+                "quantity": 1,
+                "unit_price": 1500
+            }
+        ],
+        "marketplace": "NONE",
+        "marketplace_fee": 0,
+        "metadata": {
+            "basic_settings": {
+                "auto_return": "yes",
+                "binary_mode": "no",
+                "checkbox_checkout_test_mode": "yes",
+                "checkout_credential_prod": "deprecated",
+                "commission_checkbox": "no",
+                "credits_banner": "yes",
+                "currency_conversion": "yes",
+                "enabled": "yes",
+                "ex_payments_amex": "yes",
+                "ex_payments_argencard": "yes",
+                "ex_payments_cabal": "yes",
+                "ex_payments_cencosud": "yes",
+                "ex_payments_cmr": "yes",
+                "ex_payments_debcabal": "yes",
+                "ex_payments_debmaster": "yes",
+                "ex_payments_debvisa": "yes",
+                "ex_payments_diners": "yes",
+                "ex_payments_maestro": "yes",
+                "ex_payments_master": "yes",
+                "ex_payments_naranja": "yes",
+                "ex_payments_pagofacil": "yes",
+                "ex_payments_rapipago": "yes",
+                "ex_payments_tarshop": "yes",
+                "ex_payments_visa": "yes",
+                "gateway_discount_checkbox": "no",
+                "installments": "6",
+                "method": "redirect"
+            },
+            "billing_address": {
+                "city_name": "argentina",
+                "country_name": "AR",
+                "state_name": "C",
+                "street_name": "aaaaaa",
+                "zip_code": "2222"
+            },
+            "checkout": "smart",
+            "checkout_type": "redirect",
+            "collector": "346688746",
+            "custom_settings": {
+                "binary_mode": "no",
+                "checkbox_checkout_test_mode": "yes",
+                "checkout_credential_prod": "deprecated",
+                "commission_checkbox": "no",
+                "coupon_mode": "no",
+                "currency_conversion": "yes",
+                "enabled": "yes",
+                "gateway_discount_checkbox": "no",
+                "wallet_button": "yes"
+            },
+            "details": "",
+            "module_version": "6.3.1",
+            "pix_settings": [],
+            "platform": "bo2hnr2ic4p001kbgpt0",
+            "platform_version": "7.0.0",
+            "seller_website": "https:\/\/dmt4a.ga\/grupodos",
+            "site_id": "mla",
+            "sponsor_id": 208682286,
+            "test_mode": true,
+            "ticket_settings": [],
+            "user": {
+                "registered_user": "yes",
+                "user_email": "orianaperchet@gmail.com",
+                "user_registration_date": "2022-10-09T19:25:06.000+00:00"
+            }
+        },
+        "notification_url": "https:\/\/dmt4a.ga\/grupodos\/wc-api\/WC_WooMercadoPago_Basic_Gateway\/?source_news=ipn",
+        "operation_type": "regular_payment",
+        "payer": {
+            "phone": {
+                "area_code": "",
+                "number": "151111111111"
+            },
+            "address": {
+                "zip_code": "2222",
+                "street_name": "aaaaaa  argentina C AR",
+                "street_number": null
+            },
+            "email": "orianaperchet@gmail.com",
+            "identification": {
+                "number": "",
+                "type": ""
+            },
+            "name": "oriana",
+            "surname": "perchet",
+            "date_created": null,
+            "last_purchase": null
+        },
+        "payment_methods": {
+            "default_card_id": null,
+            "default_payment_method_id": null,
+            "excluded_payment_methods": [
+                {
+                    "id": ""
+                }
+            ],
+            "excluded_payment_types": [
+                {
+                    "id": ""
+                }
+            ],
+            "installments": 6,
+            "default_installments": null
+        },
+        "processing_modes": null,
+        "product_id": null,
+        "redirect_urls": {
+            "failure": "",
+            "pending": "",
+            "success": ""
+        },
+        "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=346688746-3e499aea-5ecb-4640-abdf-503598ba6165",
+        "site_id": "MLA",
+        "shipments": {
+            "default_shipping_method": null,
+            "receiver_address": {
+                "zip_code": "",
+                "street_name": "    ",
+                "street_number": null,
+                "floor": "",
+                "apartment": "",
+                "city_name": "",
+                "state_name": "",
+                "country_name": null
+            }
+        },
+        "statement_descriptor": "Velvet Skincare",
+        "total_amount": null,
+        "last_updated": null
+    }
+}

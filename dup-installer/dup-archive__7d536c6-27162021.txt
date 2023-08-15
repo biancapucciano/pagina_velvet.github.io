@@ -1,0 +1,920 @@
+{
+    "dup_type": "lite",
+    "created": "2022-12-27 16:20:21",
+    "version_dup": "1.5.1",
+    "version_wp": "6.0.3",
+    "version_db": "10.5.15",
+    "version_php": "7.4.32",
+    "version_os": "Linux",
+    "blogname": "Grupo dos",
+    "exportOnlyDB": 0,
+    "secure_on": false,
+    "secure_pass": "$2a$08$yOJuWsqvl1P0Fue8ObvNg.7jHmzHhCZJ8JPCoBycHumxnqkypVmRm",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "dbpass": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wp_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "dmt4a.ga",
+            "path": "\/grupodos\/",
+            "blogname": "Grupo dos",
+            "blog_prefix": "wp_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "2",
+                    "user_login": "Bianca",
+                    "id": "2"
+                },
+                {
+                    "ID": "3",
+                    "user_login": "dmtadmindv",
+                    "id": "3"
+                },
+                {
+                    "ID": "4",
+                    "user_login": "lucianafeo1@gmail.com",
+                    "id": "4"
+                },
+                {
+                    "ID": "7",
+                    "user_login": "operchet",
+                    "id": "7"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/dmt4a.ga\/grupodos",
+            "fullSiteUrl": "https:\/\/dmt4a.ga\/grupodos",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/wp-content\/uploads",
+            "fullUploadSafePath": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/wp-content\/uploads",
+            "fullUploadUrl": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "dbInfo": {
+        "buildMode": "MYSQLDUMP",
+        "charSetList": [
+            "utf8mb4"
+        ],
+        "collationList": [
+            "utf8mb4_unicode_ci"
+        ],
+        "engineList": [
+            "InnoDB"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 1,
+        "name": "u994732448_QGyse",
+        "tablesBaseCount": 55,
+        "tablesFinalCount": 55,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 6344,
+        "tablesSizeOnDisk": 30883840,
+        "tablesList": {
+            "wp_actionscheduler_actions": {
+                "inaccurateRows": 25,
+                "insertedRows": 25,
+                "size": 131072
+            },
+            "wp_actionscheduler_claims": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_actionscheduler_groups": {
+                "inaccurateRows": 3,
+                "insertedRows": 5,
+                "size": 32768
+            },
+            "wp_actionscheduler_logs": {
+                "inaccurateRows": 71,
+                "insertedRows": 71,
+                "size": 49152
+            },
+            "wp_aioseo_cache": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 147456
+            },
+            "wp_aioseo_notifications": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_aioseo_posts": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_comments": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 114688
+            },
+            "wp_duplicator_packages": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wp_e_events": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_e_submissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 294912
+            },
+            "wp_e_submissions_actions_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 131072
+            },
+            "wp_e_submissions_values": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_options": {
+                "inaccurateRows": 729,
+                "insertedRows": 740,
+                "size": 3358720
+            },
+            "wp_postmeta": {
+                "inaccurateRows": 4065,
+                "insertedRows": 5198,
+                "size": 13467648
+            },
+            "wp_posts": {
+                "inaccurateRows": 610,
+                "insertedRows": 656,
+                "size": 11157504
+            },
+            "wp_termmeta": {
+                "inaccurateRows": 102,
+                "insertedRows": 102,
+                "size": 49152
+            },
+            "wp_terms": {
+                "inaccurateRows": 94,
+                "insertedRows": 94,
+                "size": 49152
+            },
+            "wp_term_relationships": {
+                "inaccurateRows": 134,
+                "insertedRows": 135,
+                "size": 32768
+            },
+            "wp_term_taxonomy": {
+                "inaccurateRows": 94,
+                "insertedRows": 94,
+                "size": 49152
+            },
+            "wp_usermeta": {
+                "inaccurateRows": 123,
+                "insertedRows": 121,
+                "size": 49152
+            },
+            "wp_users": {
+                "inaccurateRows": 3,
+                "insertedRows": 4,
+                "size": 65536
+            },
+            "wp_wc_admin_notes": {
+                "inaccurateRows": 39,
+                "insertedRows": 60,
+                "size": 49152
+            },
+            "wp_wc_admin_note_actions": {
+                "inaccurateRows": 69,
+                "insertedRows": 69,
+                "size": 32768
+            },
+            "wp_wc_category_lookup": {
+                "inaccurateRows": 21,
+                "insertedRows": 22,
+                "size": 16384
+            },
+            "wp_wc_customer_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 49152
+            },
+            "wp_wc_download_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_order_coupon_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_order_product_lookup": {
+                "inaccurateRows": 10,
+                "insertedRows": 10,
+                "size": 81920
+            },
+            "wp_wc_order_stats": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 65536
+            },
+            "wp_wc_order_tax_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_product_attributes_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_wc_product_download_directories": {
+                "inaccurateRows": 2,
+                "insertedRows": 3,
+                "size": 32768
+            },
+            "wp_wc_product_meta_lookup": {
+                "inaccurateRows": 29,
+                "insertedRows": 29,
+                "size": 114688
+            },
+            "wp_wc_rate_limits": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_wc_reserved_stock": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_wc_tax_rate_classes": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp_wc_webhooks": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_api_keys": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_attribute_taxonomies": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_downloadable_product_permissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_woocommerce_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_order_itemmeta": {
+                "inaccurateRows": 94,
+                "insertedRows": 94,
+                "size": 49152
+            },
+            "wp_woocommerce_order_items": {
+                "inaccurateRows": 10,
+                "insertedRows": 10,
+                "size": 32768
+            },
+            "wp_woocommerce_payment_tokenmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_payment_tokens": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_sessions": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wp_woocommerce_shipping_zones": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_woocommerce_shipping_zone_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_shipping_zone_methods": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_woocommerce_tax_rates": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_woocommerce_tax_rate_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wpforms_tasks_meta": {
+                "inaccurateRows": 3,
+                "insertedRows": 4,
+                "size": 16384
+            }
+        },
+        "varLowerCaseTables": "0",
+        "dbEngine": "MariaDB",
+        "version": "10.5.15",
+        "versionComment": "MariaDB Server",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 2,
+        "packageName": "velvet",
+        "packageHash": "7d536c6-27162021",
+        "secondaryHash": "15b763f-27162021"
+    },
+    "fileInfo": {
+        "dirCount": 2771,
+        "fileCount": 14118,
+        "size": 165804622
+    },
+    "wpInfo": {
+        "version": "6.0.3",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos",
+        "targetPaths": [
+            "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos"
+        ],
+        "adminUsers": [
+            {
+                "ID": "2",
+                "user_login": "Bianca",
+                "id": "2"
+            },
+            {
+                "ID": "3",
+                "user_login": "dmtadmindv",
+                "id": "3"
+            },
+            {
+                "ID": "4",
+                "user_login": "lucianafeo1@gmail.com",
+                "id": "4"
+            },
+            {
+                "ID": "7",
+                "user_login": "operchet",
+                "id": "7"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "rtc.m}So,m9n&:)Zu_rx>XZqO~#6>Ey|$+EtMUO5Dx=Z we0$J&PnigD-*ZJ>!BP",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "hN:I(jH}zJ4,)sK)pn\/w|us0XJ}*,`DsM6}3C?ga`=%Vlwk{-r+%u]O2p[&Y)I|e",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "WJ-TeY1Yo%\/M:D=}3m:y*xkLoy.jc7frG5)uSvy_C?<$W<]Ke5L[x[Mb%`u{CVPS",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "Dv2Xsc-+^6n$E1V2`?Z>W;1n6\/rMLzAq G+s,E4$k&5>u|b?\/Dyn{JxvtL#T,gqv",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "^#HlH9MC*#;hF|H3u;1LB a+=Ai{0T.Mc4 >OEGKX!|(=$EV?_+W#Oq:!k7.K^#R",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "{qllVTA?N80uOOuZN}`jjl\/00R^BrVl9N#*I?-;{v2wrIM-fT-|#K1d(iOQ9_1^0",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "G067.anpAbAG~}sA&SP4chs<^yuG}3J]n.2~)>)SQhI{XlLIC-gv|^MPp|erTon}",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "*Q=M<zH)JUO]BeC5xJ0z5WVmO(ZUMm_ijaDo\/kwjwVvIKJfcBxcE.1 bx>+h1{]`",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/dmt4a.ga\/grupodos\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "12288M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/grupodos\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/grupodos\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/grupodos\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/grupodos\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/wp-content\/themes\/astra",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/wp-content\/themes\/astra",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_AUTO_UPDATE_CORE": {
+                    "value": "minor",
+                    "inWpConfig": true
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/dmt4a.ga\/grupodos",
+                "homeUrl": "https:\/\/dmt4a.ga\/grupodos",
+                "loginUrl": "https:\/\/dmt4a.ga\/grupodos\/wp-login.php",
+                "contentUrl": "https:\/\/dmt4a.ga\/grupodos\/wp-content",
+                "uploadBaseUrl": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/dmt4a.ga\/grupodos\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos",
+                    "abs": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos",
+                    "wpconfig": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos",
+                    "wpcontent": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/wp-content",
+                    "uploads": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/wp-content\/uploads",
+                    "plugins": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/wp-content\/plugins",
+                    "muplugins": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/wp-content\/mu-plugins",
+                    "themes": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos",
+                    "abs": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos",
+                    "wpconfig": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos",
+                    "wpcontent": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/wp-content",
+                    "uploads": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/wp-content\/uploads",
+                    "plugins": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/wp-content\/plugins",
+                    "muplugins": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/wp-content\/mu-plugins",
+                    "themes": "\/home\/u994732448\/domains\/dmt4a.ga\/public_html\/grupodos\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "contact-form-7\/wp-contact-form-7.php": {
+                "slug": "contact-form-7\/wp-contact-form-7.php",
+                "name": "Contact Form 7",
+                "version": "5.6.3",
+                "pluginURI": "https:\/\/contactform7.com\/",
+                "author": "Takayuki Miyoshi",
+                "authorURI": "https:\/\/ideasilo.wordpress.com\/",
+                "description": "Just another contact form plugin. Simple but flexible.",
+                "title": "Contact Form 7",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.1",
+                "pluginURI": "https:\/\/snapcreek.com\/duplicator\/duplicator-free\/",
+                "author": "Snap Creek",
+                "authorURI": "http:\/\/www.snapcreek.com\/duplicator\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor\/elementor.php": {
+                "slug": "elementor\/elementor.php",
+                "name": "Elementor",
+                "version": "3.7.8",
+                "pluginURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash",
+                "description": "The Elementor Website Builder has it all: drag and drop page builder, pixel perfect design, mobile responsive editing, and more. Get started now!",
+                "title": "Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "header-footer-elementor\/header-footer-elementor.php": {
+                "slug": "header-footer-elementor\/header-footer-elementor.php",
+                "name": "Elementor Header & Footer Builder",
+                "version": "1.6.13",
+                "pluginURI": "https:\/\/github.com\/Nikschavan\/header-footer-elementor",
+                "author": "Brainstorm Force, Nikhil Chavan",
+                "authorURI": "https:\/\/www.brainstormforce.com\/",
+                "description": "This powerful plugin allows creating a custom header, footer with Elementor and display them on selected locations. You can also create custom Elementor blocks and place them anywhere on the website with a shortcode.",
+                "title": "Elementor Header & Footer Builder",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "essential-addons-for-elementor-lite\/essential_adons_elementor.php": {
+                "slug": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+                "name": "Essential Addons for Elementor",
+                "version": "5.3.2",
+                "pluginURI": "https:\/\/essential-addons.com\/elementor\/",
+                "author": "WPDeveloper",
+                "authorURI": "https:\/\/wpdeveloper.com\/",
+                "description": "The Essential plugin you install after Elementor! Packed with 40+ stunning free elements including Advanced Data Table, Event Calendar, Filterable Gallery, WooCommerce, and many more.",
+                "title": "Essential Addons for Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce-mercadopago\/woocommerce-mercadopago.php": {
+                "slug": "woocommerce-mercadopago\/woocommerce-mercadopago.php",
+                "name": "Mercado Pago payments for WooCommerce",
+                "version": "6.3.1",
+                "pluginURI": "https:\/\/github.com\/mercadopago\/cart-woocommerce",
+                "author": "Mercado Pago",
+                "authorURI": "https:\/\/developers.mercadopago.com\/",
+                "description": "Configure the payment options and accept payments with cards, ticket and money of Mercado Pago account.",
+                "title": "Mercado Pago payments for WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "pro-elements\/pro-elements.php": {
+                "slug": "pro-elements\/pro-elements.php",
+                "name": "PRO Elements",
+                "version": "3.8.0",
+                "pluginURI": "https:\/\/proelements.org\/",
+                "author": "PROElements.org",
+                "authorURI": "https:\/\/proelements.org\/",
+                "description": "This plugin enables GPL features of Elementor Pro: widgets, theme builder, dynamic colors & content, forms & popup builder, and more. Note that PRO Elements is not a substitute for Elementor Pro. If you need all Elementor Pro features, including access to pro templates library and dedicated support, we encourage you to <a href=\"https:\/\/elementor.com\/pro\/\" target=\"_blank\">purchase Elementor Pro<\/a>.",
+                "title": "PRO Elements",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "updraftplus\/updraftplus.php": {
+                "slug": "updraftplus\/updraftplus.php",
+                "name": "UpdraftPlus - Backup\/Restore",
+                "version": "1.22.23",
+                "pluginURI": "https:\/\/updraftplus.com",
+                "author": "UpdraftPlus.Com, DavidAnderson",
+                "authorURI": "https:\/\/updraftplus.com",
+                "description": "Backup and restore: take backups locally, or backup to Amazon S3, Dropbox, Google Drive, Rackspace, (S)FTP, WebDAV & email, on automatic schedules.",
+                "title": "UpdraftPlus - Backup\/Restore",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce\/woocommerce.php": {
+                "slug": "woocommerce\/woocommerce.php",
+                "name": "WooCommerce",
+                "version": "7.0.0",
+                "pluginURI": "https:\/\/woocommerce.com\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/woocommerce.com",
+                "description": "An eCommerce toolkit that helps you sell anything. Beautifully.",
+                "title": "WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woolentor-addons\/woolentor_addons_elementor.php": {
+                "slug": "woolentor-addons\/woolentor_addons_elementor.php",
+                "name": "WooLentor - WooCommerce Elementor Addons + Builder",
+                "version": "2.4.6",
+                "pluginURI": "https:\/\/woolentor.com\/",
+                "author": "HasThemes",
+                "authorURI": "https:\/\/hasthemes.com\/plugins\/woolentor-pro\/",
+                "description": "The WooCommerce elements library for Elementor page builder plugin for WordPress.",
+                "title": "WooLentor - WooCommerce Elementor Addons + Builder",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "yith-woocommerce-ajax-navigation\/init.php": {
+                "slug": "yith-woocommerce-ajax-navigation\/init.php",
+                "name": "YITH WooCommerce Ajax Product Filter",
+                "version": "4.15.0",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/yith-woocommerce-ajax-navigation\/",
+                "author": "YITH",
+                "authorURI": "https:\/\/yithemes.com\/",
+                "description": "<code><strong>YITH WooCommerce AJAX Product Filter<\/strong><\/code> allows your users to find the product they are looking for as quickly as possible. Thanks to the plugin you will be able to set up one or more search filters for your WooCommerce products and improve the user experience of your shop. <a href=\"https:\/\/yithemes.com\/\" target=\"_blank\">Get more plugins for your e-commerce shop on <strong>YITH<\/strong><\/a>",
+                "title": "YITH WooCommerce Ajax Product Filter",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "astra": {
+                "slug": "astra",
+                "themeName": "Astra",
+                "version": "3.9.2",
+                "themeURI": "https:\/\/wpastra.com\/",
+                "parentTheme": false,
+                "template": "astra",
+                "stylesheet": "astra",
+                "description": "Astra is fast, fully customizable &amp; beautiful WordPress theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready so search engines will love your site. It offers special features and templates so it works perfectly with all page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Some of the other features: # WooCommerce Ready # Responsive # RTL &amp; Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained &amp; Supported by Brainstorm Force. Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and WooCommerce ready theme that you can use for building any kind of website!",
+                "author": "Brainstorm Force",
+                "authorURI": "https:\/\/wpastra.com\/about\/?utm_source=theme_preview&utm_medium=author_link&utm_campaign=astra_theme",
+                "tags": [
+                    "custom-menu",
+                    "custom-logo",
+                    "entertainment",
+                    "one-column",
+                    "two-columns",
+                    "left-sidebar",
+                    "e-commerce",
+                    "right-sidebar",
+                    "custom-colors",
+                    "editor-style",
+                    "featured-images",
+                    "full-width-template",
+                    "microformats",
+                    "post-formats",
+                    "rtl-language-support",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "blog"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            },
+            "twentytwenty": {
+                "slug": "twentytwenty",
+                "themeName": "Twenty Twenty",
+                "version": "2.0",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwenty\/",
+                "parentTheme": false,
+                "template": "twentytwenty",
+                "stylesheet": "twentytwenty",
+                "description": "Our default theme for 2020 is designed to take full advantage of the flexibility of the block editor. Organizations and businesses have the ability to create dynamic landing pages with endless layouts using the group and column blocks. The centered content column and fine-tuned typography also makes it perfect for traditional blogs. Complete editor styles give you a good idea of what your content will look like, even before you publish. You can give your site a personal touch by changing the background colors and the accent color in the Customizer. The colors of all elements on your site are automatically calculated based on the colors you pick, ensuring a high, accessible color contrast for your visitors.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "blog",
+                    "one-column",
+                    "custom-background",
+                    "custom-colors",
+                    "custom-logo",
+                    "custom-menu",
+                    "editor-style",
+                    "featured-images",
+                    "footer-widgets",
+                    "full-width-template",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "block-patterns",
+                    "block-styles",
+                    "wide-blocks",
+                    "accessibility-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentyone": {
+                "slug": "twentytwentyone",
+                "themeName": "Twenty Twenty-One",
+                "version": "1.6",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyone\/",
+                "parentTheme": false,
+                "template": "twentytwentyone",
+                "stylesheet": "twentytwentyone",
+                "description": "Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush. With new block patterns, which allow you to create a beautiful layout in a matter of seconds, this theme\u2019s soft colors and eye-catching \u2014 yet timeless \u2014 design will let your work shine. Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business website, or personal blog.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "accessibility-ready",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "footer-widgets",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentytwo": {
+                "slug": "twentytwentytwo",
+                "themeName": "Twenty Twenty-Two",
+                "version": "1.2",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentytwo\/",
+                "parentTheme": false,
+                "template": "twentytwentytwo",
+                "stylesheet": "twentytwentytwo",
+                "description": "Built on a solidly designed foundation, Twenty Twenty-Two embraces the idea that everyone deserves a truly unique website. The theme\u2019s subtle styles are inspired by the diversity and versatility of birds: its typography is lightweight yet strong, its color palette is drawn from nature, and its layout elements sit gently on the page. The true richness of Twenty Twenty-Two lies in its opportunity for customization. The theme is built to take advantage of the Full Site Editing features introduced in WordPress 5.9, which means that colors, typography, and the layout of every single page on your site can be customized to suit your vision. It also includes dozens of block patterns, opening the door to a wide range of professionally designed layouts in just a few clicks. Whether you\u2019re building a single-page website, a blog, a business website, or a portfolio, Twenty Twenty-Two will help you create a site that is uniquely yours.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": true
+            }
+        }
+    },
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "Grupo dos"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "velvet_7d536c633683811b6068_20221227162021_installer-backup.php",
+    "package_name": "velvet_7d536c633683811b6068_20221227162021_archive.zip",
+    "package_hash": "7d536c6-27162021",
+    "package_notes": ""
+}
